@@ -54,6 +54,10 @@
     justify-content: space-between;
     align-items: center;
   }
+
+  .search-icon {
+    cursor: pointer;
+  }
   
   .input-search {
     border: 3px solid;
@@ -152,6 +156,7 @@
     font-family: "Orbitron", sans-serif;
     border: 2px solid #6d6f70;
     font-weight: 600;
+    cursor: pointer;
   }
   
   .button-join {
@@ -164,6 +169,7 @@
     border-radius: 7px;
     font-family: "Orbitron", sans-serif;
     border-color: #abaeb0;
+    cursor: pointer;
   }
   
   .contact-us-container {
@@ -191,5 +197,6 @@
   
   .icons span img {
     width: 35px;
+    cursor: pointer;
   }
   
